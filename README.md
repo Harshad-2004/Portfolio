@@ -2,6 +2,8 @@
 
 Personal portfolio: React + Vite front end, Express API for the contact form, deployed on Vercel.
 
+**Live:** https://portfolio-ashy-zeta-60.vercel.app
+
 ## Structure
 - `client/` — Vite + React site (content lives in `client/src/data.js`)
 - `api/index.js` — Express app, runs as a Vercel serverless function at `/api/*`
